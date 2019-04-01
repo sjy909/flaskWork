@@ -1,0 +1,33 @@
+div.content{
+	width: 1100px;
+	margin:0px auto;
+	background-color: antiquewhite;
+}
+h1{
+	color: cornflowerblue;
+	width: 160px;
+	margin: 0px auto;
+}
+div.content span{
+	font-size: 25px;
+}
+div.content input{
+	height: 24px;
+}
+div.content div{
+	display: block;
+	width: 300px;
+	margin: 10px auto;
+}
+div.content div.sub{
+	
+	width: 100px;
+	margin: 20px auto;
+}
+div.content div.sub input{
+	height: 30px;
+	font-size: 15px;
+	color: darkorange;
+	background-color: aqua;
+	margin-bottom: 20px;
+}
